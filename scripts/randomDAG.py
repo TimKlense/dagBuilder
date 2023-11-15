@@ -1,3 +1,5 @@
+# Give it a number of nodes, and the folder location
+# it generates a specified number of nodes, which randomly reference another node
 import os
 import random
 
