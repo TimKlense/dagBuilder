@@ -1,5 +1,0 @@
-
--- node_8_139 Model
-SELECT * 
-FROM {{ ref('node_7_69') }} -- Double curly braces for reference
-where node_name = 1
