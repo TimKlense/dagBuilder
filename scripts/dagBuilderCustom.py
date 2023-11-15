@@ -1,3 +1,6 @@
+# give it the number of roots you want
+# then the height of each root
+# then the specified location to save the generated files
 import os
 
 def generate_model(node_name, parent_name, child_name):
