@@ -1,3 +1,5 @@
+# Generates a DAG with a parent, and children..... similar to a tree in data structures https://en.wikipedia.org/wiki/Tree_(data_structure) 
+# Provide it with the height of the DAG, and the location to save the files
 import os
 
 def generate_model(node_name, parent_name, child_name):
